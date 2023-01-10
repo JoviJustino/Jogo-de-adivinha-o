@@ -1,2 +1,2 @@
-# Jogo-de-adivinha-o
+# Jogo-de-adivinhação
 Exercício de aprendizagem de manipulação de Dom e eventos
